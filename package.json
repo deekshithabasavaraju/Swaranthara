@@ -1,0 +1,26 @@
+{
+  "name": "swaranthara-school-of-music",
+  "version": "1.0.0",
+  "description": "Swaranthara School of Music - Bangalore Website",
+  "main": "index.html",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite --port 3000 --open"
+  },
+  "keywords": [
+    "swaranthara",
+    "music-school",
+    "bangalore",
+    "piano",
+    "guitar",
+    "keyboard"
+  ],
+  "author": "Swaranthara",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^6.0.0"
+  }
+}
